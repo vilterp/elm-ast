@@ -1,4 +1,4 @@
-module AST where
+module Elm.AST where
 
 import Dict exposing (Dict)
 
